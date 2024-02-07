@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\call_logs",
+    "\\call_logs\\android",
+    "\\call_logs\\android\\app",
+    "\\call_logs\\android\\app\\src",
+    "\\call_logs\\android\\app\\src\\main",
+    "\\call_logs\\android\\app\\src\\main\\java",
+    "\\call_logs\\android\\app\\src\\main\\java\\io",
+    "\\call_logs\\android\\app\\src\\main\\java\\io\\flutter",
+    "\\call_logs\\android\\app\\src\\main\\java\\io\\flutter\\plugins"
+  ],
+  "PreviewInSolutionExplorer": false
+}
